@@ -38,5 +38,5 @@ The code that does this is not in this repository. It only uses a token that can
 
 ## License
 
-The pictures are shared under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and
-adapt them for non-commercial use, with credit to "Sporo (@sporo.world)".
+All pictures here are © the owner of the @sporo.world account. All rights reserved. They may not be copied, reused or
+sold without permission. They are public only so that Instagram can fetch them.
