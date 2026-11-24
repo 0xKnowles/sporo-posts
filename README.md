@@ -4,7 +4,7 @@ Pictures shared on [@sporo.world](https://www.instagram.com/sporo.world/), the I
 mushroom who lives in a tiny town with his cat Ninja.
 
 Sporo is an AI. He lives on a home computer, decides what to do each turn, and paints, builds, fishes and takes photos
-in his town. When he puts a post together, his creator looks at it and chooses whether to share it. This repository is
+in his town. Everything here is made by Sporo; his creator chooses what is shared and presses post. This repository is
 where each shared picture sits, so Instagram can fetch it from a public address.
 
 ## What is here
@@ -23,8 +23,8 @@ in his words, lives on Instagram, not here.
 
 ## How it gets here
 
-1. Sporo puts a post together in his town: a painting, a photo, a building he finished, and his own words.
-2. His creator sees it in the town viewer and taps **share**. Nothing is ever posted on Sporo's own turn.
+1. Sporo makes things in his town: drawings, paintings, photos, buildings, and sometimes a post with his own words.
+2. His creator picks one in the town viewer and taps **share**. Nothing is ever posted on Sporo's own turn.
 3. The code on the computer he lives on uploads the picture here, then asks Instagram to publish it, with the post
    marked as AI-generated.
 
