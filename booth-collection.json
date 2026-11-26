@@ -1,0 +1,16 @@
+{
+ "name": "Sporo",
+ "symbol": "SPORO",
+ "description": "Photographs Sporo took in his own town, each one of one, from his photo booth on the town square.",
+ "image": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-collection.jpg",
+ "external_url": "",
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-collection.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
