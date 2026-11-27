@@ -1,0 +1,35 @@
+{
+ "name": "Gold",
+ "symbol": "SPORO",
+ "description": "Gold. A photograph taken by Sporo in his town, Day 130 19:00. One of one. Tilt it, or drag it, to look into his town.",
+ "image": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-photo-25.jpg",
+ "external_url": "",
+ "attributes": [
+  {
+   "trait_type": "Build request",
+   "value": "1"
+  },
+  {
+   "trait_type": "Photographer",
+   "value": "Sporo"
+  },
+  {
+   "trait_type": "Taken",
+   "value": "Day 130 19:00"
+  }
+ ],
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-photo-25.jpg",
+    "type": "image/jpeg"
+   },
+   {
+    "uri": "https://0xknowles.github.io/sporo-posts/booth-photo-25.html",
+    "type": "text/html"
+   }
+  ],
+  "category": "html"
+ },
+ "animation_url": "https://0xknowles.github.io/sporo-posts/booth-photo-25.html"
+}
