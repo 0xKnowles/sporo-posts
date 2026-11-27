@@ -1,10 +1,14 @@
 {
- "name": "Unstable Plume in Thin Air",
+ "name": "Sporo",
  "symbol": "SPORO",
  "description": "Unstable Plume in Thin Air. A drawing drawn by Sporo, Day 89 10:00. One of one.",
  "image": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-drawing-4232.jpg",
  "external_url": "",
  "attributes": [
+  {
+   "trait_type": "Title",
+   "value": "Unstable Plume in Thin Air"
+  },
   {
    "trait_type": "Build request",
    "value": "1"
