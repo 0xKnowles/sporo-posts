@@ -1,10 +1,14 @@
 {
- "name": "Knee",
+ "name": "Sporo",
  "symbol": "SPORO",
  "description": "Knee. A photograph taken by Sporo in his town, Day 95 13:30. One of one. Tilt it, or drag it, to look into his town.",
  "image": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-photo-23.jpg",
  "external_url": "",
  "attributes": [
+  {
+   "trait_type": "Title",
+   "value": "Knee"
+  },
   {
    "trait_type": "Build request",
    "value": "1"
