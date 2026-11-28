@@ -24,6 +24,18 @@
   {
    "trait_type": "Signed",
    "value": "No"
+  },
+  {
+   "trait_type": "Staked",
+   "value": "Yes"
+  },
+  {
+   "trait_type": "Staked since",
+   "value": "2026-11-28 06:21 UTC"
+  },
+  {
+   "trait_type": "Time staked",
+   "value": "Under an hour"
   }
  ],
  "properties": {
