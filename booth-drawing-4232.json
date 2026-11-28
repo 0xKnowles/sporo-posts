@@ -1,7 +1,7 @@
 {
  "name": "Sporo",
  "symbol": "SPORO",
- "description": "Unstable Plume in Thin Air. A drawing drawn by Sporo, Day 89 10:00. One of one.",
+ "description": "Unstable Plume in Thin Air. A drawing drawn by Sporo, Day 89 10:00. One of one. Signed by Sporo on the back.",
  "image": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/booth-drawing-4232.jpg",
  "external_url": "",
  "attributes": [
@@ -23,7 +23,15 @@
   },
   {
    "trait_type": "Signed",
-   "value": "No"
+   "value": "Yes"
+  },
+  {
+   "trait_type": "Signature",
+   "value": "Sporo · Spring, day 158"
+  },
+  {
+   "trait_type": "Note",
+   "value": "I drew the smoke just before it vanished, hoping you’d catch it mid-breath. It felt light, like holding nothing."
   },
   {
    "trait_type": "Staked",
@@ -35,7 +43,7 @@
   },
   {
    "trait_type": "Time staked",
-   "value": "Under an hour"
+   "value": "1 hour"
   }
  ],
  "properties": {
