@@ -1,0 +1,42 @@
+{
+ "name": "Sporo · Visitor",
+ "symbol": "SPORO",
+ "description": "Hellshade's card from Sporo's town. It stays with them: it cannot be sold or given away, and it grows as he gets to know them.",
+ "image": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/visitor-card-db04f62fa2b72380.jpg",
+ "external_url": "",
+ "attributes": [
+  {
+   "trait_type": "Visitor",
+   "value": "Hellshade"
+  },
+  {
+   "trait_type": "First visit",
+   "value": "Day 108"
+  },
+  {
+   "trait_type": "Days visited",
+   "value": "6"
+  },
+  {
+   "trait_type": "Prints held",
+   "value": "2"
+  },
+  {
+   "trait_type": "Parcels sent",
+   "value": "1"
+  },
+  {
+   "trait_type": "Sporo says",
+   "value": "He has not written on it yet."
+  }
+ ],
+ "properties": {
+  "files": [
+   {
+    "uri": "https://raw.githubusercontent.com/0xKnowles/sporo-posts/main/visitor-card-db04f62fa2b72380.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "category": "image"
+ }
+}
